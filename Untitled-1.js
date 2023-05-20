@@ -1,4 +1,6 @@
-function showMassage() {
-    //document.getElementById("mega").innerHTML = "A TY POLECAŻ ?"
-    elo
+function likeMassage() {
+    alert("fajnie (:");
+}
+function unlikeMassage() {
+    alert("szkoda ):");
 }
