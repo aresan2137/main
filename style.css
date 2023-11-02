@@ -1,0 +1,16 @@
+body{
+    background-color: #969696;
+}
+#Opcions {
+    float: left;
+    background-color: #83d823;
+}
+#Games {
+    background-color: #a3a3a3;
+    padding: 10px;
+    float: left;
+}
+#end{
+    background-color: #161616;
+    clear: both;
+}
